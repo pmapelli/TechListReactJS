@@ -6,3 +6,6 @@ Tela simples desenvolvida em ReactJS com apenas um Input que recebe um valor e c
 - Webpack
 - Webpack Dev Server
 - Babel 
+- CSS Loader
+- File Loader
+- Prop-Types
